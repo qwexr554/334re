@@ -1,0 +1,19 @@
+{
+  "logo": {
+    "text": "Fuji and Ganesh Edu",
+    "image": "/logo.png"
+  },
+  "menuItems": [
+    { "name": "HOME", "href": "/", "active": true },
+    { "name": "SERVICES", "href": "/services" },
+    { "name": "ABROAD STUDY", "href": "/abroad-study" },
+    { "name": "LANGUAGES", "href": "/japanese-language" },
+    { "name": "COMPANY", "href": "/company" },
+    { "name": "BLOG", "href": "/blog" },
+    { "name": "CONTACT", "href": "/contact" }
+  ],
+  "cta": {
+    "text": "APPLY NOW",
+    "href": "/apply"
+  }
+}
