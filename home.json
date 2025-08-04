@@ -1,0 +1,179 @@
+{
+  "hero": {
+    "title": "Welcome to",
+    "subtitle": "Fuji and Ganesh Edu  ",
+    "description": "Preparations Classes",
+    "tagline": "Get ready for your exams with our expert preparation classes.",
+    "studentImage": "/student.png?height=600&width=400&text=Student+with+backpack"
+  },
+  "countries": [
+    { "name": "USA", "flag": "��" },
+    { "name": "UK", "flag": "��" },
+    { "name": "Australia", "flag": "��" },
+    { "name": "Canada", "flag": "��" },
+    { "name": "Japan", "flag": "��" },
+    { "name": "New Zealand", "flag": "��" },
+    { "name": "South Korea", "flag": "🇰🇷" },
+    { "name": "Germany", "flag": "��" },
+    { "name": "Europe", "flag": "🇪🇺" },
+    { "name": "Denmark", "flag": "🇩🇰" }
+  ],
+  "services": [
+    {
+      "icon": "users",
+      "title": "Career Counselling"
+    },
+    {
+      "icon": "file-check",
+      "title": "SSW Visa Processing"
+    },
+    {
+      "icon": "plane",
+      "title": "TIPT Visa Services"
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "Bachelor Visa Support"
+    },
+    {
+      "icon": "book-open",
+      "title": "Student Visa Processing"
+    },
+    {
+      "icon": "award",
+      "title": "Scholarship Assistance"
+    }
+  ],
+  "whyChooseUs": {
+    "title": "Why Choose Us ?",
+    "subtitle": "As your Partner",
+    "description": "At Fuji and Ganesh Edu, we offer tailored solutions backed by years of expertise and a proven track record, ensuring your educational success. As your trusted partner, we're committed to delivering innovative, results-driven strategies and providing hands-on support to help you reach your goals.",
+    "features": [
+      {
+        "icon": "star",
+        "title": "Experienced Tutors You Can Trust",
+        "description": "Our skilled tutors provide personalized learning to ensure academic success."
+      },
+      {
+        "icon": "trophy",
+        "title": "Proven Track Record of Success",
+        "description": "With years of expertise, our tutors help students achieve their academic goals."
+      }
+    ],
+    "founder": {
+      "name": "FUji Ganesh",
+      "title": "CEO, Founder",
+      "image": "/placeholder.svg?height=60&width=60&text=AK"
+    },
+    "teamImage": "/placeholder.svg?height=400&width=600&text=Nara+Team",
+    "videoUrl": "/placeholder-video.mp4"
+  },
+  "statistics": {
+    "destinations": "13+",
+    "students": "5,000+",
+    "instructors": "5+",
+    "visaSuccess": "99.99%"
+  },
+  "preparationClasses": [
+    {
+      "name": "IELTS",
+      "icon": "edit",
+      "description": "Prepare for the IELTS exam with our comprehensive study materials, practice tests, and expert guidance to enhance your English language skills."
+    },
+    {
+      "name": "JLPT",
+      "icon": "globe",
+      "description": "Master the Japanese Language Proficiency Test (JLPT) with our comprehensive N5 to N1 level preparation courses and expert guidance."
+    },
+    {
+      "name": "JPT",
+      "icon": "trophy",
+      "description": "Prepare for the Japanese Proficiency Test (JPT) with our focused study plans and practice tests to achieve your target score."
+    },
+    {
+      "name": "Free Japanese Classes",
+      "icon": "gift",
+      "description": "Join our complimentary Japanese language classes designed for beginners to build a strong foundation in Japanese language and culture."
+    }
+  ],
+  "languageCourses": [
+    {
+      "number": "1",
+      "name": "Japanese",
+      "image": "/placeholder.svg?height=200&width=300&text=Learn+Japanese",
+      "description": "Learn Japanese through speaking, reading, and cultural immersion."
+    },
+    {
+      "number": "2",
+      "name": "Korean",
+      "image": "/placeholder.svg?height=200&width=300&text=Korean+Class",
+      "description": "Master Korean with a focus on Hangeul and conversation."
+    },
+    {
+      "number": "3",
+      "name": "German",
+      "image": "/placeholder.svg?height=200&width=300&text=German+Class",
+      "description": "Build German skills with interactive lessons and practical conversations."
+    },
+    {
+      "number": "4",
+      "name": "Spanish",
+      "image": "/placeholder.svg?height=200&width=300&text=Spanish+Class",
+      "description": "Learn Spanish with interactive lessons."
+    },
+    {
+      "number": "5",
+      "name": "Chinese",
+      "image": "/placeholder.svg?height=200&width=300&text=Chinese+Class",
+      "description": "Master Chinese language skills."
+    },
+    {
+      "number": "6",
+      "name": "French",
+      "image": "/placeholder.svg?height=200&width=300&text=French+Class",
+      "description": "Learn French with practical conversations."
+    }
+  ],
+  "instructors": [
+    {
+      "name": "Alison Gray",
+      "title": "Business Teacher",
+      "image": "/placeholder.svg?height=300&width=250&text=Alison+Gray",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#"
+      }
+    },
+    {
+      "name": "Manny west",
+      "title": "Account Teacher",
+      "image": "/placeholder.svg?height=300&width=250&text=Manny+West",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#"
+      }
+    },
+    {
+      "name": "Richard Roy",
+      "title": "Science Instructor",
+      "image": "/placeholder.svg?height=300&width=250&text=Richard+Roy",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#"
+      }
+    },
+    {
+      "name": "John Wilson",
+      "title": "Art & Tech",
+      "image": "/placeholder.svg?height=300&width=250&text=John+Wilson",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#"
+      }
+    }
+  ]
+}
