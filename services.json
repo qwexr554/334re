@@ -1,0 +1,90 @@
+{
+  "title": "Our Comprehensive Education & Visa Services",
+  "subtitle": "Expert guidance for your Japanese education journey and visa processing",
+  "services": [
+    {
+      "id": 1,
+      "number": "1",
+      "title": "Free Japanese Language Classes",
+      "description": "Complimentary Japanese language training from beginner levels. Join our free classes to build a strong foundation in Japanese language and culture before your journey to Japan.",
+      "features": [
+        "Free beginner-level Japanese classes",
+        "Cultural orientation sessions",
+        "Basic conversation skills",
+        "Hiragana and Katakana training"
+      ]
+    },
+    {
+      "id": 2,
+      "number": "2",
+      "title": "JLPT & JPT Test Preparation",
+      "description": "Comprehensive preparation for Japanese Language Proficiency Test (JLPT) and Japanese Proficiency Test (JPT). Our experienced instructors help you achieve your target scores.",
+      "features": [
+        "JLPT N5 to N1 preparation",
+        "JPT test strategies and practice",
+        "Mock tests and assessments",
+        "Personalized study plans"
+      ]
+    },
+    {
+      "id": 3,
+      "number": "3",
+      "title": "IELTS Preparation",
+      "description": "Expert IELTS coaching to help you achieve the required band score for your study abroad goals. Comprehensive training covering all four modules of the IELTS exam.",
+      "features": [
+        "Speaking, Listening, Reading, Writing modules",
+        "Band score improvement strategies",
+        "Regular mock tests",
+        "Individual feedback sessions"
+      ]
+    },
+    {
+      "id": 4,
+      "number": "4",
+      "title": "SSW Visa Processing",
+      "description": "Specialized Skilled Worker (SSW) visa processing for Japan. Complete assistance for skilled professionals looking to work in Japan under the SSW program.",
+      "features": [
+        "SSW visa documentation",
+        "Skill assessment guidance",
+        "Job matching assistance",
+        "100% visa success rate"
+      ]
+    },
+    {
+      "id": 5,
+      "number": "5",
+      "title": "TIPT Visa Services",
+      "description": "Technical Intern Training Program (TITP) visa processing for hands-on training opportunities in Japan. Perfect for gaining practical work experience.",
+      "features": [
+        "TITP program selection",
+        "Company matching services",
+        "Visa documentation support",
+        "Pre-departure orientation"
+      ]
+    },
+    {
+      "id": 6,
+      "number": "6",
+      "title": "Bachelor Visa Support",
+      "description": "Complete assistance for undergraduate study visa applications to Japanese universities. From university selection to visa approval, we handle everything.",
+      "features": [
+        "University selection guidance",
+        "Application document preparation",
+        "Student visa processing",
+        "Scholarship application support"
+      ]
+    },
+    {
+      "id": 7,
+      "number": "7",
+      "title": "Student Visa Processing",
+      "description": "Expert student visa processing services for all levels of education in Japan. Our visa success rate is 100% with zero rejections for qualified applicants.",
+      "features": [
+        "COE application processing",
+        "Student visa documentation",
+        "Financial documentation guidance",
+        "Embassy interview preparation"
+      ]
+    }
+  ]
+}
