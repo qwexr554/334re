@@ -1,0 +1,99 @@
+{
+  "title": "Why Choose Us ?",
+  "subtitle": "As your Partner",
+  "description": "At Fuji and Ganesh Education Research Center, we empower Japanese students to excel in their academic and professional aspirations by providing comprehensive preparation and educational services. With specialized expertise in Japanese education systems and personalized guidance, we're committed to fostering personal growth and creating extensive networking opportunities in an increasingly interconnected world.",
+  "features": [
+    {
+      "id": 1,
+      "icon": "star",
+      "title": "Experienced Tutors You Can Trust",
+      "description": "Our skilled tutors provide personalized learning to ensure academic success.",
+      "benefits": [
+        "Qualified and certified instructors",
+        "Personalized learning approach",
+        "Proven teaching methodologies",
+        "Continuous progress monitoring"
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "trophy",
+      "title": "Proven Track Record of Success",
+      "description": "With years of expertise, our tutors help students achieve their academic goals.",
+      "benefits": [
+        "High success rate in visa applications",
+        "Alumni network in top universities",
+        "Industry recognition and awards",
+        "Student testimonials and reviews"
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "users",
+      "title": "Comprehensive Support System",
+      "description": "From application to arrival, we provide end-to-end support for your educational journey.",
+      "benefits": [
+        "Pre-departure orientation",
+        "Accommodation assistance",
+        "Cultural integration programs",
+        "24/7 student support hotline"
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "globe",
+      "title": "Global Network & Partnerships",
+      "description": "Strong partnerships with leading institutions worldwide for better opportunities.",
+      "benefits": [
+        "Direct university partnerships",
+        "Scholarship opportunities",
+        "Exchange programs",
+        "Industry connections"
+      ]
+    }
+  ],
+  "founder": {
+    "name": "Kikuchi Nobuhiko",
+    "title": "CEO, Founder",
+    "image": "https://res.cloudinary.com/dibfohj3z/image/upload/v1754398432/general/xgolef4h8hjfigvjnkup.jpg",
+    "bio": "With over 15 years of experience in international education, Kikuchi Nobuhiko has helped thousands of students achieve their dreams of studying abroad.",
+    "qualifications": [
+      "Master's in International Education",
+      "Certified Study Abroad Counselor",
+      "Licensed Immigration Consultant"
+    ],
+    "achievements": [
+      "Founded multiple successful education centers",
+      "Recognized as Education Leader of the Year 2023",
+      "Published author on international education"
+    ]
+  },
+  "teamImage": "/placeholder.svg?height=400&width=600&text=Nara+Team",
+  "videoUrl": "/placeholder-video.mp4",
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Yuki Tanaka",
+      "university": "University of Tokyo",
+      "program": "Computer Science",
+      "message": "The guidance I received was exceptional. The team helped me every step of the way.",
+      "image": "/placeholder.svg?height=60&width=60&text=YT",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Hiroshi Sato",
+      "university": "Kyoto University",
+      "program": "International Relations",
+      "message": "Professional, caring, and highly knowledgeable. Highly recommend their services.",
+      "image": "/placeholder.svg?height=60&width=60&text=HS",
+      "rating": 5
+    }
+  ],
+  "statistics": {
+    "studentsHelped": "5,000+",
+    "successRate": "99.99%",
+    "yearsExperience": "15+",
+    "universityPartnerships": "100+"
+  }
+}
