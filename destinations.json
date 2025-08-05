@@ -1,0 +1,48 @@
+{
+  "title": "Top Japanese Study Destinations",
+  "subtitle": "Explore the best cities in Japan for international students",
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Tokyo",
+      "image": "/tokyo.jpg?height=300&width=400&text=Tokyo+Skyline+with+Mount+Fuji",
+      "description": "Japan's capital city with world-renowned universities like University of Tokyo, Waseda, and Keio University.",
+      "universities": 150,
+      "students": "200,000+",
+      "highlights": [
+        "University of Tokyo",
+        "Waseda University",
+        "Keio University",
+        "Tokyo Institute of Technology"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Osaka",
+      "image": "/osaka.jpg?height=300&width=400&text=Osaka+Castle+and+City",
+      "description": "Japan's kitchen with excellent universities and vibrant student life. Home to Osaka University and Kansai University.",
+      "universities": 80,
+      "students": "120,000+",
+      "highlights": [
+        "Osaka University",
+        "Kansai University",
+        "Osaka Prefecture University",
+        "Doshisha University"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kyoto",
+      "image": "/kyoto.jpg?height=300&width=400&text=Kyoto+Traditional+Temples",
+      "description": "Ancient capital with prestigious universities and rich cultural heritage. Perfect for traditional Japanese studies.",
+      "universities": 60,
+      "students": "80,000+",
+      "highlights": [
+        "Kyoto University",
+        "Ritsumeikan University",
+        "Kyoto Institute of Technology",
+        "Doshisha University"
+      ]
+    }
+  ]
+}
