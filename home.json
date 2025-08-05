@@ -1,9 +1,9 @@
 {
   "hero": {
     "title": "Welcome to",
-    "subtitle": "Fuji and Ganesh Edu  ",
-    "description": "Preparations Classes",
-    "tagline": "Get ready for your exams with our expert preparation classes.",
+    "subtitle": "Fuji and Ganesh Education Research Center",
+    "description": "Study in Japan - Your Gateway to Quality Education",
+    "tagline": "Empowering Japanese students to excel in their academic and professional aspirations by providing comprehensive preparation and educational services.",
     "studentImage": "/student.png?height=600&width=400&text=Student+with+backpack"
   },
   "countries": [
@@ -47,7 +47,7 @@
   "whyChooseUs": {
     "title": "Why Choose Us ?",
     "subtitle": "As your Partner",
-    "description": "At Fuji and Ganesh Edu, we offer tailored solutions backed by years of expertise and a proven track record, ensuring your educational success. As your trusted partner, we're committed to delivering innovative, results-driven strategies and providing hands-on support to help you reach your goals.",
+    "description": "At Fuji and Ganesh Education Research Center, we empower Japanese students to excel in their academic and professional aspirations by providing comprehensive preparation and educational services. With specialized expertise in Japanese education systems and personalized guidance, we're committed to fostering personal growth and creating extensive networking opportunities in an increasingly interconnected world.",
     "features": [
       {
         "icon": "star",
@@ -61,9 +61,9 @@
       }
     ],
     "founder": {
-      "name": "FUji Ganesh",
+      "name": "Kikuchi Nobuhiko",
       "title": "CEO, Founder",
-      "image": "/placeholder.svg?height=60&width=60&text=AK"
+      "image": "/placeholder.svg?height=60&width=60&text=KN"
     },
     "teamImage": "/placeholder.svg?height=400&width=600&text=Nara+Team",
     "videoUrl": "/placeholder-video.mp4"
