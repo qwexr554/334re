@@ -1,7 +1,7 @@
 {
   "logo": {
     "text": "Fuji and Ganesh Edu",
-    "image": "/logo.png"
+    "image": "/croplogo.png"
   },
   "menuItems": [
     { "name": "Home", "href": "/", "active": true },
