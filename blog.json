@@ -2,24 +2,24 @@
   "title": "Latest News & Insights",
   "subtitle": "Stay updated with Japanese education trends and student success stories",
   "featured": {
-    "id": 1,
-    "slug": "complete-guide-studying-japan-2024",
-    "title": "Complete Guide to Studying in Japan 2024",
-    "excerpt": "Everything you need to know about studying in Japan, from choosing universities to cultural adaptation.",
-    "content": "<h2>Introduction</h2><p>Japan has become one of the most popular destinations for international students seeking high-quality education and unique cultural experiences. This comprehensive guide will walk you through everything you need to know about studying in Japan in 2024.</p><h2>Why Study in Japan?</h2><p>Japan offers world-class universities, cutting-edge technology programs, and rich cultural immersion opportunities. With programs taught in both Japanese and English, students can choose the learning environment that best suits their goals.</p><h2>Top Universities</h2><ul><li>University of Tokyo</li><li>Kyoto University</li><li>Osaka University</li><li>Tohoku University</li><li>Waseda University</li></ul><h2>Application Process</h2><p>The application process typically involves language proficiency tests, academic transcripts, personal statements, and recommendation letters. Start preparing at least 12-18 months in advance.</p><h2>Living Costs</h2><p>Monthly living expenses in Japan range from ¥100,000 to ¥150,000 depending on the city and lifestyle. Tokyo and Osaka tend to be more expensive than smaller cities.</p><h2>Conclusion</h2><p>Studying in Japan is an investment in your future that offers both academic excellence and personal growth. With proper planning and preparation, your Japanese study abroad experience can be truly transformative.</p>",
-    "thumbnail": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/blog/studying-japan-guide.jpg",
-    "author": {
-      "name": "Hiroshi Tanaka",
-      "avatar": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/authors/hiroshi-tanaka.jpg",
-      "bio": "Education consultant with 10+ years of experience helping students study in Japan"
-    },
-    "date": "2024-01-15",
-    "category": "Study Guide",
-    "readTime": "10 min read",
-    "tags": ["Japan", "Study Abroad", "Universities", "Guide"],
-    "published": true,
-    "featured": true
+  "id": 7,
+  "slug": "how-to-get-mext-scholarship-2025",
+  "title": "How to Win the MEXT Scholarship in 2025: Complete Step-by-Step Guide",
+  "excerpt": "A proven roadmap to securing Japan's most prestigious scholarship — covering eligibility, documents, interviews, and insider tips.",
+  "content": "<h2>What is the MEXT Scholarship?</h2><p>The MEXT (Monbukagakusho) Scholarship is offered by the Japanese government to international students for undergraduate, master’s, and doctoral programs. It covers tuition, living allowance, and airfare.</p><h2>Eligibility Criteria</h2><p>Applicants must have excellent academic records, a strong study plan, and meet the language requirements (typically JLPT N2 or IELTS 6.0+ depending on the program).</p><h2>Step-by-Step Application Process</h2><ol><li>Check eligibility via embassy or university recommendation track</li><li>Prepare required documents: transcript, study plan, recommendation letters, medical form</li><li>Submit application by May-June (varies by country)</li><li>Pass the written test and interview at Japanese Embassy</li><li>Wait for final results (announced by January)</li></ol><h2>Insider Tips</h2><ul><li>Craft a compelling study plan aligned with Japan’s research goals</li><li>Demonstrate cultural interest and career goals benefiting both your home country and Japan</li><li>Practice mock interviews — especially questions like ‘Why Japan?’ and ‘Why this field?’</li></ul><h2>Common Mistakes to Avoid</h2><ul><li>Generic study plans with unclear objectives</li><li>Weak recommendation letters</li><li>Overconfidence in interviews — humility matters</li></ul><h2>Final Thoughts</h2><p>The MEXT Scholarship is competitive, but not impossible. With a focused strategy and persistence, you can join the ranks of scholars studying at Japan’s top universities — tuition-free.</p>",
+  "thumbnail": "https://www.nz.emb-japan.go.jp/culture_education/images/mext_logo.gif",
+  "author": {
+    "name": "Kikuchi Nobuhiko",
+    "avatar": "https://res.cloudinary.com/dibfohj3z/image/upload/v1754398432/general/xgolef4h8hjfigvjnkup.jpg",
+    "bio": "Former MEXT scholar and education mentor, helping students craft successful study plans and scholarship applications."
   },
+  "date": "2024-12-12",
+  "category": "Scholarships",
+  "readTime": "11 min read",
+  "tags": ["MEXT", "Scholarships", "Application Guide", "Study in Japan"],
+  "published": true,
+  "featured": true
+},
   "posts": [
     {
       "id": 2,
@@ -27,10 +27,10 @@
       "title": "JLPT N2 vs N1: Which Level Do You Need for Japanese Universities?",
       "excerpt": "Understanding the Japanese language requirements for different university programs and how to prepare effectively.",
       "content": "<h2>Understanding JLPT Levels</h2><p>The Japanese Language Proficiency Test (JLPT) is crucial for international students planning to study in Japan. Understanding the difference between N2 and N1 levels can help you prepare more effectively.</p><h2>N2 Level Requirements</h2><p>JLPT N2 is sufficient for most undergraduate programs and some graduate programs. It demonstrates intermediate-level Japanese proficiency and is accepted by many universities.</p><h2>N1 Level Requirements</h2><p>JLPT N1 is the highest level and is often required for competitive programs, research positions, and scholarships like MEXT.</p><h2>Preparation Tips</h2><ul><li>Start with grammar fundamentals</li><li>Practice reading comprehension daily</li><li>Use authentic Japanese materials</li><li>Take mock tests regularly</li></ul><h2>University-Specific Requirements</h2><p>Always check individual university requirements as they may vary. Some programs taught in English may have different language requirements.</p>",
-      "thumbnail": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/blog/jlpt-exam-preparation.jpg",
+      "thumbnail": "https://jlpt.org.np/default_image/landing_image.png",
       "author": {
         "name": "Yuki Sato",
-        "avatar": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/authors/yuki-sato.jpg",
+        "avatar": "https://www.enthought.com/wp-content/uploads/Yuki_Sato-jacket-Web-Tokyo.png",
         "bio": "JLPT expert and Japanese language instructor"
       },
       "date": "2024-01-10",
@@ -40,82 +40,6 @@
       "published": true,
       "featured": false
     },
-    {
-      "id": 3,
-      "slug": "top-scholarships-international-students-japan",
-      "title": "Top 10 Scholarships for International Students in Japan",
-      "excerpt": "Comprehensive list of scholarships available for international students including MEXT, JASSO, and university-specific grants.",
-      "content": "<h2>Introduction to Japanese Scholarships</h2><p>Japan offers numerous scholarship opportunities for international students. Here are the top 10 scholarships you should consider.</p><h2>1. MEXT Scholarship</h2><p>The Japanese Government's most prestigious scholarship covering full tuition, living allowance, and travel expenses.</p><h2>2. JASSO Scholarships</h2><p>Various programs offered by Japan Student Services Organization for different academic levels.</p><h2>3. University-Specific Scholarships</h2><p>Many Japanese universities offer their own scholarship programs for international students.</p><h2>4. Private Foundation Scholarships</h2><p>Numerous private organizations provide funding for deserving international students.</p><h2>Application Tips</h2><ul><li>Start early - applications open 6-12 months in advance</li><li>Prepare strong academic records</li><li>Write compelling personal statements</li><li>Get strong recommendation letters</li></ul><h2>Important Deadlines</h2><p>Most scholarship applications are due between April and June for the following academic year.</p>",
-      "thumbnail": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/blog/scholarship-application.jpg",
-      "author": {
-        "name": "Kenji Yamamoto",
-        "avatar": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/authors/kenji-yamamoto.jpg",
-        "bio": "Financial aid advisor specializing in Japanese scholarships"
-      },
-      "date": "2024-01-08",
-      "category": "Scholarships",
-      "readTime": "12 min read",
-      "tags": ["Scholarships", "MEXT", "JASSO", "Financial Aid"],
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": 4,
-      "slug": "student-life-tokyo-complete-guide",
-      "title": "Student Life in Tokyo: A Complete Guide",
-      "excerpt": "What to expect when studying in Tokyo - from accommodation and transportation to part-time jobs and social life.",
-      "content": "<h2>Welcome to Tokyo Student Life</h2><p>Tokyo offers an incredible experience for international students. This guide covers everything you need to know about living and studying in Japan's capital.</p><h2>Accommodation Options</h2><h3>University Dormitories</h3><p>Most affordable option, typically ¥30,000-50,000 per month including utilities.</p><h3>Share Houses</h3><p>Popular among international students, fostering cultural exchange and friendships.</p><h3>Private Apartments</h3><p>More expensive but offers complete independence and privacy.</p><h2>Transportation</h2><p>Tokyo's public transportation system is world-class. Get a student discount IC card for trains and buses.</p><h2>Part-time Jobs</h2><p>International students can work up to 28 hours per week with proper permits. Popular jobs include:</p><ul><li>English conversation teaching</li><li>Restaurant work</li><li>Convenience store clerk</li><li>Translation services</li></ul><h2>Social Life and Culture</h2><p>Join university clubs, attend cultural festivals, and explore Tokyo's diverse neighborhoods to make the most of your experience.</p><h2>Monthly Budget Breakdown</h2><ul><li>Accommodation: ¥50,000-80,000</li><li>Food: ¥30,000-40,000</li><li>Transportation: ¥10,000</li><li>Entertainment: ¥20,000</li></ul>",
-      "thumbnail": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/blog/tokyo-student-life.jpg",
-      "author": {
-        "name": "Sakura Tanaka",
-        "avatar": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/authors/sakura-tanaka.jpg",
-        "bio": "Student life coordinator and former international student in Tokyo"
-      },
-      "date": "2024-01-05",
-      "category": "Student Life",
-      "readTime": "8 min read",
-      "tags": ["Tokyo", "Student Life", "Accommodation", "Budget"],
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": 5,
-      "slug": "japanese-university-application-timeline",
-      "title": "Japanese University Application Timeline: When to Start",
-      "excerpt": "Step-by-step timeline for applying to Japanese universities, from language preparation to final enrollment.",
-      "content": "<h2>Planning Your Japanese University Application</h2><p>Applying to Japanese universities requires careful timing and preparation. Here's a comprehensive timeline to help you succeed.</p><h2>18-24 Months Before</h2><h3>Language Preparation</h3><p>Start intensive Japanese language study or English proficiency test preparation.</p><h3>Research Universities</h3><p>Identify target universities and programs that match your interests and career goals.</p><h2>12-18 Months Before</h2><h3>Standardized Tests</h3><p>Take JLPT, TOEFL, or IELTS depending on your program requirements.</p><h3>Academic Preparation</h3><p>Maintain strong grades and seek research opportunities.</p><h2>6-12 Months Before</h2><h3>Application Materials</h3><p>Prepare transcripts, recommendation letters, and personal statements.</p><h3>Scholarship Applications</h3><p>Apply for MEXT and other scholarships.</p><h2>3-6 Months Before</h2><h3>Submit Applications</h3><p>Complete university applications and pay application fees.</p><h3>Interview Preparation</h3><p>Prepare for potential interviews or entrance exams.</p><h2>Application Deadlines</h2><ul><li>Spring admission: September-November</li><li>Fall admission: January-March</li></ul><h2>Final Steps</h2><p>Upon acceptance, apply for student visa and prepare for departure to Japan.</p>",
-      "thumbnail": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/blog/application-timeline.jpg",
-      "author": {
-        "name": "Hiroshi Tanaka",
-        "avatar": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/authors/hiroshi-tanaka.jpg",
-        "bio": "Education consultant with 10+ years of experience helping students study in Japan"
-      },
-      "date": "2024-01-03",
-      "category": "Applications",
-      "readTime": "9 min read",
-      "tags": ["Applications", "Timeline", "Planning", "Universities"],
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": 6,
-      "slug": "success-story-nepal-university-tokyo",
-      "title": "Success Story: From Nepal to University of Tokyo",
-      "excerpt": "How Rajesh overcame language barriers and cultural challenges to secure admission at Japan's top university.",
-      "content": "<h2>Meet Rajesh: A Journey of Determination</h2><p>Rajesh Kumar from Kathmandu, Nepal, dreamed of studying at the University of Tokyo since high school. Here's his inspiring journey from dream to reality.</p><h2>The Challenge</h2><p>Coming from a middle-class family in Nepal, Rajesh faced several obstacles:</p><ul><li>Limited Japanese language exposure</li><li>Financial constraints</li><li>Cultural unfamiliarity</li><li>Competitive admission process</li></ul><h2>The Preparation</h2><h3>Language Learning</h3><p>Rajesh dedicated 2 years to intensive Japanese study, achieving JLPT N1 level.</p><h3>Academic Excellence</h3><p>He maintained a 3.8 GPA while working part-time to support his studies.</p><h3>Research Experience</h3><p>Rajesh conducted undergraduate research in engineering, publishing two papers.</p><h2>The Application Process</h2><p>With guidance from Fuji and Ganesh Edu, Rajesh crafted compelling application materials highlighting his unique background and research potential.</p><h2>Success and Beyond</h2><p>Rajesh was accepted into the University of Tokyo's Graduate School of Engineering with a full MEXT scholarship. He's now pursuing his PhD in robotics.</p><h2>Advice for Future Students</h2><blockquote>'Start early, stay consistent, and never give up on your dreams. The journey is challenging but incredibly rewarding.' - Rajesh Kumar</blockquote><h2>How We Helped</h2><p>Fuji and Ganesh Edu provided:</p><ul><li>Language preparation guidance</li><li>Application strategy development</li><li>Mock interviews and feedback</li><li>Scholarship application support</li></ul>",
-      "thumbnail": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/blog/success-story-rajesh.jpg",
-      "author": {
-        "name": "Editorial Team",
-        "avatar": "https://res.cloudinary.com/dibfohj3z/image/upload/v1/fuji-ganesh-edu/authors/editorial-team.jpg",
-        "bio": "Fuji and Ganesh Edu content team sharing student success stories"
-      },
-      "date": "2024-01-01",
-      "category": "Success Stories",
-      "readTime": "6 min read",
-      "tags": ["Success Story", "Nepal", "University of Tokyo", "MEXT"],
-      "published": true,
-      "featured": false
-    }
   ],
   "categories": [
     { "name": "Study Guide", "count": 15 },
