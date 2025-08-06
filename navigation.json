@@ -13,7 +13,7 @@
     { "name": "Contact Us", "href": "/contact-us" }
   ],
   "cta": {
-    "text": "APPLY NOW",
+    "text": "Apply Now",
     "href": "/apply"
   }
 }
