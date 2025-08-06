@@ -2,24 +2,24 @@
   "title": "Latest News & Insights",
   "subtitle": "Stay updated with Japanese education trends and student success stories",
   "featured": {
-  "id": 7,
-  "slug": "how-to-get-mext-scholarship-2025",
-  "title": "How to Win the MEXT Scholarship in 2025: Complete Step-by-Step Guide",
-  "excerpt": "A proven roadmap to securing Japan's most prestigious scholarship — covering eligibility, documents, interviews, and insider tips.",
-  "content": "<h2>What is the MEXT Scholarship?</h2><p>The MEXT (Monbukagakusho) Scholarship is offered by the Japanese government to international students for undergraduate, master’s, and doctoral programs. It covers tuition, living allowance, and airfare.</p><h2>Eligibility Criteria</h2><p>Applicants must have excellent academic records, a strong study plan, and meet the language requirements (typically JLPT N2 or IELTS 6.0+ depending on the program).</p><h2>Step-by-Step Application Process</h2><ol><li>Check eligibility via embassy or university recommendation track</li><li>Prepare required documents: transcript, study plan, recommendation letters, medical form</li><li>Submit application by May-June (varies by country)</li><li>Pass the written test and interview at Japanese Embassy</li><li>Wait for final results (announced by January)</li></ol><h2>Insider Tips</h2><ul><li>Craft a compelling study plan aligned with Japan’s research goals</li><li>Demonstrate cultural interest and career goals benefiting both your home country and Japan</li><li>Practice mock interviews — especially questions like ‘Why Japan?’ and ‘Why this field?’</li></ul><h2>Common Mistakes to Avoid</h2><ul><li>Generic study plans with unclear objectives</li><li>Weak recommendation letters</li><li>Overconfidence in interviews — humility matters</li></ul><h2>Final Thoughts</h2><p>The MEXT Scholarship is competitive, but not impossible. With a focused strategy and persistence, you can join the ranks of scholars studying at Japan’s top universities — tuition-free.</p>",
-  "thumbnail": "https://www.nz.emb-japan.go.jp/culture_education/images/mext_logo.gif",
-  "author": {
-    "name": "Kikuchi Nobuhiko",
-    "avatar": "https://res.cloudinary.com/dibfohj3z/image/upload/v1754398432/general/xgolef4h8hjfigvjnkup.jpg",
-    "bio": "Former MEXT scholar and education mentor, helping students craft successful study plans and scholarship applications."
+    "id": 7,
+    "slug": "how-to-get-mext-scholarship-2025",
+    "title": "How to Win the MEXT Scholarship in 2025: Complete Step-by-Step Guide",
+    "excerpt": "A proven roadmap to securing Japan's most prestigious scholarship — covering eligibility, documents, interviews, and insider tips.",
+    "content": "<h2>What is the MEXT Scholarship?</h2><p>The MEXT (Monbukagakusho) Scholarship is offered by the Japanese government to international students for undergraduate, master’s, and doctoral programs. It covers tuition, living allowance, and airfare.</p><h2>Eligibility Criteria</h2><p>Applicants must have excellent academic records, a strong study plan, and meet the language requirements (typically JLPT N2 or IELTS 6.0+ depending on the program).</p><h2>Step-by-Step Application Process</h2><ol><li>Check eligibility via embassy or university recommendation track</li><li>Prepare required documents: transcript, study plan, recommendation letters, medical form</li><li>Submit application by May-June (varies by country)</li><li>Pass the written test and interview at Japanese Embassy</li><li>Wait for final results (announced by January)</li></ol><h2>Insider Tips</h2><ul><li>Craft a compelling study plan aligned with Japan’s research goals</li><li>Demonstrate cultural interest and career goals benefiting both your home country and Japan</li><li>Practice mock interviews — especially questions like ‘Why Japan?’ and ‘Why this field?’</li></ul><h2>Common Mistakes to Avoid</h2><ul><li>Generic study plans with unclear objectives</li><li>Weak recommendation letters</li><li>Overconfidence in interviews — humility matters</li></ul><h2>Final Thoughts</h2><p>The MEXT Scholarship is competitive, but not impossible. With a focused strategy and persistence, you can join the ranks of scholars studying at Japan’s top universities — tuition-free.</p>",
+    "thumbnail": "https://www.nz.emb-japan.go.jp/culture_education/images/mext_logo.gif",
+    "author": {
+      "name": "Kikuchi Nobuhiko",
+      "avatar": "https://res.cloudinary.com/dibfohj3z/image/upload/v1754398432/general/xgolef4h8hjfigvjnkup.jpg",
+      "bio": "Former MEXT scholar and education mentor, helping students craft successful study plans and scholarship applications."
+    },
+    "date": "2024-12-12",
+    "category": "Scholarships",
+    "readTime": "11 min read",
+    "tags": ["MEXT", "Scholarships", "Application Guide", "Study in Japan"],
+    "published": true,
+    "featured": true
   },
-  "date": "2024-12-12",
-  "category": "Scholarships",
-  "readTime": "11 min read",
-  "tags": ["MEXT", "Scholarships", "Application Guide", "Study in Japan"],
-  "published": true,
-  "featured": true
-},
   "posts": [
     {
       "id": 2,
@@ -39,7 +39,7 @@
       "tags": ["JLPT", "Language", "University", "Requirements"],
       "published": true,
       "featured": false
-    },
+    }
   ],
   "categories": [
     { "name": "Study Guide", "count": 15 },
