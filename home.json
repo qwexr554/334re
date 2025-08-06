@@ -7,8 +7,8 @@
     "studentImage": "/student.png?height=600&width=400&text=Student+with+backpack"
   },
   "countries": [
-    { "name": "USA", "flag": "��" },
-    { "name": "UK", "flag": "��" },
+    { "name": "Japan", "flag": "��" },
+    { "name": "South Korea", "flag": "��" },
     { "name": "Australia", "flag": "��" },
     { "name": "Canada", "flag": "��" },
     { "name": "Japan", "flag": "��" },
