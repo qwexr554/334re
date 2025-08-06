@@ -4,13 +4,13 @@
     "image": "/logo.png"
   },
   "menuItems": [
-    { "name": "HOME", "href": "/", "active": true },
-    { "name": "SERVICES", "href": "/services" },
-    { "name": "ABROAD STUDY", "href": "/abroad-study" },
-    { "name": "LANGUAGES", "href": "/japanese-language" },
-    { "name": "COMPANY", "href": "/company" },
-    { "name": "BLOG", "href": "/blog" },
-    { "name": "CONTACT", "href": "/contact" }
+    { "name": "Home", "href": "/", "active": true },
+    { "name": "Services", "href": "/services" },
+    { "name": "Abroad Study", "href": "/abroad-study" },
+    { "name": "Languages", "href": "/japanese-language" },
+    { "name": "About Us", "href": "/about" },
+    { "name": "Blog", "href": "/blog" },
+    { "name": "Contact Us", "href": "/contact-us" }
   ],
   "cta": {
     "text": "APPLY NOW",
